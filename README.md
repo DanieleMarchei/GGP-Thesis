@@ -17,3 +17,4 @@ A repository to keep track of all the resources useful for my thesis on General 
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
 - [The graph neural network model](https://persagen.com/files/misc/scarselli2009graph.pdf)
 - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212.pdf)
+- [Variational Graph Auto-Encoders](https://arxiv.org/pdf/1611.07308.pdf)
