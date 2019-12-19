@@ -25,3 +25,4 @@ A repository to keep track of all the resources useful for my thesis on General 
 - [Persistence Images:  A Stable Vector Representation ofPersistent Homology](http://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
 - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
 - [jHoles: A Tool for Understanding Biological Complex Networks via Clique Weight Rank Persistent Homology](https://www.sciencedirect.com/science/article/pii/S1571066114000577)
+- [Graph Classification with 2D Convolutional Neural Networks](https://arxiv.org/pdf/1708.02218.pdf)
