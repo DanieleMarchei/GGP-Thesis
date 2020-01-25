@@ -14,14 +14,16 @@ A repository to keep track of all the resources useful for my thesis on General 
 - [Factoring General Games using Propositional Automata](http://logic.stanford.edu/classes/cs227/2010/readings/factoring.pdf)
 - [Symmetry Detection in General Game Playing](http://www.general-game-playing.de/downloads/AAAI10_symmetry_detection.pdf)
 
-## Neural Networks for Graph
+## Neural Networks for Graphs
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
 - [The graph neural network model](https://persagen.com/files/misc/scarselli2009graph.pdf)
 - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212.pdf)
 - [Variational Graph Auto-Encoders](https://arxiv.org/pdf/1611.07308.pdf)
+- [graph2vec: Learning Distributed Representations of Graphs](https://arxiv.org/pdf/1707.05005.pdf)
+- [node2vec: Scalable Feature Learning for Networks](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 
 ## Miscellaneous
-- [Ripser.py: A Lean Persistent Homology Library forPython](https://joss.theoj.org/papers/10.21105/joss.00925)
+- [Ripser.py: A Lean Persistent Homology Library for Python](https://joss.theoj.org/papers/10.21105/joss.00925)
 - [Persistence Images:  A Stable Vector Representation ofPersistent Homology](http://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
 - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
 - [jHoles: A Tool for Understanding Biological Complex Networks via Clique Weight Rank Persistent Homology](https://www.sciencedirect.com/science/article/pii/S1571066114000577)
