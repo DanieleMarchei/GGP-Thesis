@@ -29,3 +29,5 @@ A repository to keep track of all the resources useful for my thesis on General 
 - [jHoles: A Tool for Understanding Biological Complex Networks via Clique Weight Rank Persistent Homology](https://www.sciencedirect.com/science/article/pii/S1571066114000577)
 - [Graph Classification with 2D Convolutional Neural Networks](https://arxiv.org/pdf/1708.02218.pdf)
 - [Visualizing Data using t-SNE](http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+- [Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
