@@ -22,6 +22,12 @@ A repository to keep track of all the resources useful for my thesis on General 
 - [graph2vec: Learning Distributed Representations of Graphs](https://arxiv.org/pdf/1707.05005.pdf)
 - [node2vec: Scalable Feature Learning for Networks](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 
+## Reinforcement Learning
+- [Reinforcement Learning - An Introduction](http://incompleteideas.net/book/RLbook2018.pdf)
+- [Supervising strong learners by amplifying weak experts](https://arxiv.org/pdf/1810.08575.pdf)
+- [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/pdf/1705.08439.pdf)
+- [Mastering the game of Go without human knowledge](https://www.gwern.net/docs/rl/2017-silver.pdf)
+
 ## Miscellaneous
 - [Ripser.py: A Lean Persistent Homology Library for Python](https://joss.theoj.org/papers/10.21105/joss.00925)
 - [Persistence Images:  A Stable Vector Representation ofPersistent Homology](http://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
