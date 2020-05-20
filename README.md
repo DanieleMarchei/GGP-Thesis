@@ -7,6 +7,7 @@ A repository to keep track of all the resources useful for my thesis on General 
 - [General Game Playing](http://general-game-playing.de)
 - [GGP Standford](http://ggp.stanford.edu)
 - [GGP Course Videos](https://www.youtube.com/playlist?list=PLoNVFS-hCert8MHid8ldxFtI9UZR9yqUC)
+- [General game playing: Game description language specification](http://logic.stanford.edu/classes/cs227/2013/readings/gdl_spec.pdf)
 
 ## RuleGraphs, PropNets and Cell Automata
 - [Propositional Automata and Cell Automata: Representational Frameworks for Discrete Dynamic Systems](https://link.springer.com/chapter/10.1007%2F978-3-540-89378-3_6])
@@ -30,7 +31,7 @@ A repository to keep track of all the resources useful for my thesis on General 
 
 ## Miscellaneous
 - [Ripser.py: A Lean Persistent Homology Library for Python](https://joss.theoj.org/papers/10.21105/joss.00925)
-- [Persistence Images:  A Stable Vector Representation ofPersistent Homology](http://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
+- [Persistence Images:  A Stable Vector Representation of Persistent Homology](http://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
 - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
 - [jHoles: A Tool for Understanding Biological Complex Networks via Clique Weight Rank Persistent Homology](https://www.sciencedirect.com/science/article/pii/S1571066114000577)
 - [Graph Classification with 2D Convolutional Neural Networks](https://arxiv.org/pdf/1708.02218.pdf)
