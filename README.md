@@ -14,6 +14,7 @@ A repository to keep track of all the resources useful for my thesis on General 
 - [Optimizing Propositional Networks](http://giga16.ru.is/giga16-paper1.pdf)
 - [Factoring General Games using Propositional Automata](http://logic.stanford.edu/classes/cs227/2010/readings/factoring.pdf)
 - [Symmetry Detection in General Game Playing](http://www.general-game-playing.de/downloads/AAAI10_symmetry_detection.pdf)
+- [Graph-Based Domain Mapping for Transfer Learning in General Games](https://link.springer.com/chapter/10.1007/978-3-540-74958-5_20)
 
 ## Neural Networks for Graphs
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
